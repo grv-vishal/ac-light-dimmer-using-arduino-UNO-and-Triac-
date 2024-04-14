@@ -1,10 +1,11 @@
-# ac-light-dimmer-using-arduino-UNO-and-Triac-
+# Ac-Light-Dimmer-using-Arduino-UNO-and-TRIAC
 
 
 "Implemented an Arduino UNO-driven AC light dimmer utilizing TRIAC technology, showcasing adeptness in microcontroller programming and hardware integration for dynamic control of lighting intensity."
 
 "Demonstrated proficiency in circuit design and microcontroller programming by developing an AC light dimmer system using Arduino UNO and TRIAC, enabling precise adjustment of lighting brightness for enhanced user experience."
-Components Used:
+
+### Components Used:
 1. 1 Step Down Transformer 220V /6 V
 2. Arduino UNO – 1
 3. MOC3021M DIAC - 1
